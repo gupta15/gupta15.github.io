@@ -28,7 +28,7 @@ output:
 For the full CV click [here](about.html) or the button below.
 
 <br>
-<a class="btn btn-outline-secondary btn-lg" href="about.html" role="button">Resume</a>
+<a class="btn btn-outline-secondary btn-lg" href="about.html" role="button">CV</a>
 
 
 
