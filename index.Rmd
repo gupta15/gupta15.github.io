@@ -1,7 +1,6 @@
 ---
-title: "Holy cow!"
+title: "Aakriti's webpage"
 ---
 
-### I have a webpage!
+### Hi folks!
 
-And I can put all kinds of stuff on it!
