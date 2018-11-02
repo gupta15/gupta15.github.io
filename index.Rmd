@@ -4,8 +4,7 @@ title: "Aakriti's webpage"
 
 ### Hi folks! Welcome to my page!
 
-
-<img src="images/headsot.jpg" style="width:75%">
+<img src="images/headshot.jpg" style="width:75%">
 
 
 
