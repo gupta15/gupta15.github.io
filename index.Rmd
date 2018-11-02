@@ -2,5 +2,10 @@
 title: "Aakriti's webpage"
 ---
 
-### Hi folks!
+### Hi folks! Welcome to my page!
+
+
+<img src="images/headsot.jpg" style="width:75%">
+
+
 
