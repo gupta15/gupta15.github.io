@@ -2,13 +2,24 @@ name: "My webpage"
 output_dir: "."
 navbar:
   title: "Home"
-  left:
-    - text: "About"
+  right:
+
+    - icon: fa fa-paperclip
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<aak.gupta15@gmail.com>
+      href: mailto:aak.gupta15@gmail.com
     - icon: fa-github fa-lg
-      href: http://gupta15.github.io/
+      href: https://github.com/gupta15
+    - icon: fa fa-twitter fa-lg
+      href: https://twitter.com/aakriti_15
+    - icon: fa fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/aakriti-gupta-2245326a/
+
+  output_dir: '.'
 output:
   html_document:
-  theme: flatly
+    theme: yeti
+    highlight: pygments
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no

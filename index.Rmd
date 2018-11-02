@@ -1,10 +1,34 @@
 ---
-title: "Aakriti's webpage"
+title: "AAKRITI GUPTA"
+output:
+  html_document
 ---
 
-### Hi folks! Welcome to my page!
+<center>
 
-<img src="images/headshot.jpg" style="width:75%">
+<img src="images/headshot copy.png" width="300px" height="auto">
+
+</center>
+
+<h3>THE BRIEF BIO</h3>
+
+<br>
+
+> I am currently a cardiology fellow-in-training and a data science enthusiast. I am constantly looking to find new ways to think about data, and its visualization, to promote its value for patients, providers and healthcare organizations.
+
+<br>
+<h3>STILL CURIOUS? READ ON:</h3>
+
+<br>
+
+> I grew up in India where I also completed my medical school and moved to the US for further training. I worked with a leading cardiovascular outcomes research group at Yale where I led several projects to investigate gender- and race-based differences in patients with acute myocardial infarction (AMI). Through my work, I studied the complex interplay of patho-physiological, socio-demographic, financial and societal barriers that may be driving these differences. My work has been published in top cardiology journals and presented in national and international cardiology meetings. Besides, I have served as a Section Editor for the Circulation: Cardiovascular Quality and Outcomes journal and a reviewer for several cardiovascular and internal medicine journals. I am currently pursuing my cardiology fellowship and Masters in patient-oritented research at Columbia University Medical Center in New York. I enjoy working with data and constantly seek to learn ways to improve data visualization. I am working on developing methods to improve communication of risk for heart disease with interactive visualization techniques, that patients and providers will be able to utilize.
+ 
+<br>
+
+For the full CV click [here](about.html) or the button below.
+
+<br>
+<a class="btn btn-outline-secondary btn-lg" href="about.html" role="button">Resume</a>
 
 
 

@@ -1,5 +1,169 @@
 ---
-title: "About"
+title: "VITAE"
 ---
 
-### About this site
+
+## <i class="fa fa-graduation-cap fa-lg"></i>  Education and Training
+
+<br>
+
+<ul>  
+  <i class="fa fa-angle-double-right fa-lg"></i> Columbia University | Master of Science in Patient-Oriented Research (2017 -- present) 
+</ul>
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> Columbia University Medical Center| Cardiology Fellowship  (2016 -- present)
+</ul>
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>   Yale University School of Medicine| Internal Medicine Residency  (2013 -- 2016)
+</ul>
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>   Government Medical College and Hospital, Chandigarh, India | Doctorate in Medicine  (2005 -- 2011)
+</ul>
+
+<br>
+
+## <i class="fa fa-institution fa-lg"></i>  Work Experience
+
+<br>
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> Columbia University Medical Center| Cardiology Fellowship  (2016 -- present)
+</ul>
+
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>   Yale University School of Medicine| Internal Medicine Residency  (2013 -- 2016)
+</ul>
+
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>   Center for Outcomes Research and Evaluation (CORE), Yale University <small> Postdoctoral Research Associate </small>  (2013 -- 2016)
+</ul>
+
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>   Circulation: Cardiovascular Outcomes and Research  <small> Section Editor </small>  (2012 -- 2013)
+</ul>
+
+<br>
+
+## <i class="fas fa-user-cog"></i> Grants
+
+<br>
+
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>  Agency: Women’s Health Research at Yale Pilot Project Program 
+Title: “Outcomes of Young Women with Diverse Phenotypes of Acute Myocardial Infarction” PI: Erica Spatz, M.D. and Harlan M. Krumholz, M.D., S.M. 
+Project Period: 7/1/2016 – 6/30/2018 </ul>
+ 
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>  Agency:  N.I.H/N.H.L.B.I  I.D.# T32 HL007854  
+Title: “Postdoctoral Training in Cardiovascular Disease”  P.I.: Mark A. Hardy, M.D. and Steven O. Marx, M.D.  Project period: 07/01/2017 - 06/30/2019 </ul>
+
+<br>
+
+
+## <i class="fa fa-trophy fa-lg"></i> Awards and Honors
+
+<br>
+
+<ul>
+Received  scholarship  for  the  Masters  in  Patient-Oriented  Research  program  at Columbia  University (2017)
+
+Received ‘Letter of Excellence’ as a Reviewer for Annals of Internal Medicine from Editor-in-Chief (2014)
+
+Named  in  Dean’s  List  of  Exemplary  Students,  Government  Medical College  and Hospital, Chandigarh, India (2009)
+
+Punjab University, Chandigarh, India, Darshi Gupta Memorial Award for standing first in Pediatrics M.B.B.S final year (2010)
+
+Government Medical College and Hospital, Chandigarh, India 
+M.B.B.S First Year.
+University Ranks attained:
+2nd   position  overall,  2st   position  in  Anatomy,  2nd  position  in  Physiology,  2nd position in Biochemistry
+Scholarship received: INR 10000/-
+
+M.B.B.S Second Year. University Ranks attained:
+3rd      position    overall,    2nd      position    in    Forensic    Medicine,    3rd      position    in Pharmacology and Microbiology
+Scholarship received: INR 5500/-
+
+MBBS Final Year. University Ranks attained:
+3rd  position overall, 1st  position in Pediatrics, 2nd  position in Internal Medicine, 3rd position in Surgery, 3rd  position in Obstetrics and Gynecology.
+Scholarship received: INR 6000/-
+
+</ul>
+<br>
+
+
+## <i class="fa fa-copy fa-lg"></i> Publications 
+
+<br>
+
+<ul>
+1.	Gupta, Aakriti, and Harlan Krumholz. "Trends in adoption of Wingspan stents." British Medical Journal 348 (2014)
+
+2.	Gupta, Aakriti, Yongfei Wang, John A. Spertus,  Mary  Geda,  Nancy  Lorenze,  Chileshe  Nkonde- Price, Gail D'Onofrio, Judith H. Lichtman, and Harlan M. Krumholz. "Trends in acute myocardial infarction in young patients and differences by sex and race, 2001 to 2010." Journal of  the American College of Cardiology 64, no. 4 (2014): 337-345.
+
+3.	Ranasinghe, Isuru, Abbas Shojaee, Behnood Bikdeli, Aakriti Gupta, Ruijun Chen, Joseph S. Ross, Frederick Masoudi, John A. Spertus, Brahmajee K. Nallamothu, and Harlan M. Krumholz. "Poorly Cited Articles in Peer-Reviewed Cardiovascular Journals from 1997-2007: Analysis of 5-Year Citation Rates." Circulation (2015): CIRCULATIONAHA-114.
+
+4.	Gupta, Aakriti, Mayur M. Desai, Nancy Kim, Ketan R. Bulsara, Yun Wang, and Harlan M. Krumholz. "Trends in intracranial stenting among Medicare beneficiaries in the United States, 2006–2010." Journal of the American Heart Association 2, no. 2 (2013): e000084.
+
+5.	Gupta, Aakriti, Philip Chui, Shengfan Zhou, John Spertus, Mary Geda, Nancy Lorenze, Ike Lee, Gail Donofri, Judith Lichtman, Karen Alexander, Harlan Krumholz,  Jeptha  Curtis.  Frequency  and Effects of Excess Dosing of Anticoagulants in Patients ≤55 Years of Age with Acute Myocardial Infarction Undergoing Percutaneous Coronary Intervention (From the VIRGO Study). American Journal of Cardiology. 2015.
+
+6.	Gupta, Aakriti, Kelly Strait, Jose Barrabes, Hector Bueno, Mary Geda, Nancy Lorenze, Gail D'Onofrio, Judith H. Lichtman, and Harlan M. Krumholz. Sex Differences in Timeliness of Reperfusion in Young Patients With STEMI by Initial ECG Characteristics. J Am Heart Assoc. 2018;7:e007021. DOI: 10.1161/JAHA.117.007021
+ 
+
+7.	Downing, Nicholas; Gupta, Aakriti et al. Consistency of Race and Income Differences in Hospital Performance: An Analysis of Within- and Between-Hospital Variation. Accepted manuscript. Health Services Research. 2017
+
+8.	Barrabés, Jose, Gupta, Aakriti; Andreu Porta-Sáncheza, Kelly M. Strait, Gabriel Acosta-Vélez, Gail D’Onofrio, Rosa-Maria Lidón, Mary Geda, Rachel P. Dreyer,d, Nancy P. Lorenze, Judith H. Lichtman, John A. Spertus, Héctor Bueno, Harlan M. Krumholz. Sex Differences in Electrocardiogram Characteristics Among Young Patients with Acute Myocardial Infarction – A VIRGO Sub-study. American Journal of Cardiology. In Press 2017
+
+9.	Gupta, Aakriti, Julianna F. Lampropulos, Behnood Bikdeli, Purav Mody, RuiJun Chen, Vivek T. Kulkarni, and Kumar Dharmarajan. "Most important outcomes research papers on cardiovascular disease in women." Circulation: Cardiovascular Quality and Outcomes 6, no. 1 (2013): e1-e7.
+
+10.	Gupta, Aakriti, Purav Mody, Behnood Bikdeli, Julianna F. Lampropulos, and Kumar Dharmarajan. "Most important outcomes research papers in cardiovascular disease in the elderly." Circulation: Cardiovascular Quality and Outcomes 5, no. 3 (2012): e17-e26
+
+11.	Mody, Purav S., Yun Wang, Arnar Geirsson, Nancy Kim, Mayur M. Desai, Aakriti Gupta, John A. Dodson, and Harlan M.  Krumholz.  "Trends  in  Aortic  Dissection  Hospitalizations,  Interventions, and Outcomes Among Medicare Beneficiaries in the United States, 2000–2011." Circulation: Cardiovascular Quality and Outcomes 7, no. 6 (2014): 920-928.
+
+12.	Arnold SV, Li SX, Alexander KP, Spertus JA, Nallamothu BK, Curtis JP, Kosiborod M, Aakriti Gupta, Wang TY, Lin H, Dharmarajan K, Strait KM, Lowe TJ, Krumholz HM. Hospital Variability in Use of Anticoagulant Strategies During Acute Myocardial Infarction Treated with an Early Invasive Strategy. Journal of American Heart Association 2015.
+
+13.	Gupta, Aakriti, Kumar Dharmarajan, Rachel Dreyer, Behnood Bikdeli, Ruijun Chen, Vivek T. Kulkarni, Ruizhi Shi, Abbas Shojaee, and Isuru Ranasinghe. "Most Important Outcomes Research Papers on Device Therapies for Cardiomyopathies." Circulation: Cardiovascular Quality and Outcomes 6, no. 5 (2013): e36-e47.
+
+14.	Mody, Purav, Aakriti Gupta, Behnood Bikdeli, Julianna F. Lampropulos, and Kumar Dharmarajan. "Most important articles on cardiovascular disease among racial and  ethnic  minorities." Circulation: Cardiovascular Quality and Outcomes 5, no. 4 (2012): e33-e41.
+
+15.	Mathew, Jayant T., Hitesh Patni, Ahmad N. Chaudhary, Wei Liang, Aakriti Gupta, Praveen N. Chander, Guohua Ding, and Pravin C. Singhal. "Aldosterone induces mesangial cell apoptosis both in vivo and in vitro." American Journal of Physiology 295, no. 1 (2008): F73-F81.
+
+16.	Chen, Ruijun, Purav S. Mody, Aakriti Gupta, Behnood Bikdeli, Rachel Dreyer, Serene I. Chen, Sudhakar Nuti, and Isuru Ranasinghe. "Most Important Outcomes Research Papers on Body Weight, Obesity and Cardiovascular Outcomes." Circulation: Cardiovascular Quality  and Outcomes 6, no. 6 (2013): e48-e56.
+
+17.	Bikdeli, Behnood, Aakriti Gupta, Purav Mody, Julianna F. Lampropulos, and Kumar Dharmarajan. "Most important outcomes research papers on anticoagulation for cardiovascular disease." Circulation: Cardiovascular Quality and Outcomes 5, no. 5 (2012): e65-e74.
+
+18.	Lampropulos, Julianna  F., Aakriti Gupta, Vivek  T. Kulkarni, Purav  Mody, RuiJun  Chen, Behnood Bikdeli,  and  Kumar  Dharmarajan.  "Most  Important  Outcomes  Research  Papers  on  Variation  in Cardiovascular Disease." Circulation: Cardiovascular Quality and Outcomes 6, no. 2 (2013): e9- e16.
+
+19.	Chen, Ruijun, Kumar Dharmarajan, Vivek T. Kulkarni, Natdanai Punnanithinont, Aakriti Gupta, Behnood Bikdeli, Purav S. Mody, and Isuru Ranasinghe. "Most Important  Outcomes  Research Papers on Hypertension." Circulation: Cardiovascular Quality and Outcomes 6, no. 4 (2013): e26- e35.
+
+20.	Bikdeli, Behnood, Isuru Ranasinghe, Ruijun Chen, Aakriti Gupta, Julianna F. Lampropulos, Vivek T. Kulkarni, Purav S. Mody, and Kumar Dharmarajan. "Most Important Outcomes Research Papers on Treatment of Stable Coronary Artery Disease." Circulation: Cardiovascular Quality and Outcomes 6, no. 3 (2013): e17-e25.
+
+21.	Gupta, Aakriti; SIkand N, Polansky M, Evans J, Sussman, S. Pilot Study to examine the effect of a simple intervention during rounds on lab-ordering practices among inpatient house-staff teams – The Labs Tomorrow Study. Journal of General Internal Medicine. S904-S905. 2016
+
+22.	Gupta, Krishan L., and Aakriti Gupta. "Mucormycosis and acute kidney injury." Journal of nephropathology 1, no. 3 (2012): 155.
+
+23.	Gupta, Aakriti, Purav Mody, and Shefali Gupta. "A case of respiratory syncytial virus infection in an HIV-positive adult." Case reports in infectious diseases 2012 (2012).
+
+24.	Gupta, Aakriti, M Geda, T Murphy, S Tsang, T Gill, J Dodson, S Chaudhry. “Presentation of oldest- old patients with acute myocardial infarction – The SILVER-AMI Study”. Submitted to Journal of American College of Cardiology
+
+</ul>
+
+<br>
+
+## <i class="fa fa-child fa-lg"></i> Interests
+
+<br>
+
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> Learning more about statistics and data science; particularly its applications in R. 
+  </ul>
+  
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> Interested in applications of 'big data' in Medicine 
+  </ul>
+  
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> Martial arts - Black belt holder in Karate 
+  </ul>
+  
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> Exploration: I like to explore other places through travel and food; ideologies through reading and communicating, and world through science and discovery!
+  </ul>
