@@ -2,24 +2,25 @@
 title: "NY NOAA"
 output: 
   flexdashboard::flex_dashboard:
-    orientation: columns
+    orientation: rows
     vertical_layout: fill
 ---
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
-```
-
-Column {data-width=500}
------------------------------------------------------------------------
-
-### Chart A
-
-```{r}
 library(tidyverse)
 library(viridis)
 library(p8105.datasets)
 library(plotly)
+
+```
+
+Scatterplot {data-width=600}
+-----------------------------------------------------------------------
+
+### Tmax versus tmin with size of precipitation
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
 set.seed(1)
 
@@ -33,6 +34,37 @@ noaa = ny_noaa %>%
     tmin = as.integer(tmin) / 10,
     tmax = as.integer(tmax) / 10
     ) %>% 
-  sample_n(5000)
+  sample_n(1000)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+noaa %>% 
+  plot_ly(x = ~tmax, y = ~tmin,
+  color = ~month, size = ~prcp
+)
+```
 
 
+
+Column {data-width=400}
+-----------------------------------------------------------------------
+
+### Boxplot
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+noaa %>%
+  group_by(year) %>% 
+  plot_ly(y = ~tmax, color = ~year, type = "box",
+          colors = "Set2")
+```
+
+
+### Line chart
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+noaa %>%
+  filter(month == "07") %>% 
+  plot_ly(x = ~year, y = ~tmax, name = 'Tmax', type = 'scatter', mode = 'lines+markers') %>%
+  add_trace(y = ~tmin, name = 'Tmin', mode = 'lines+markers') %>%
+  add_trace(y = ~prcp, name = 'Precipitation', mode = 'markers')
+```

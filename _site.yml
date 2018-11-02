@@ -6,6 +6,8 @@ navbar:
 
     - icon: fa fa-paperclip
       href: about.html
+    - text: "Plots"
+      href: p9105_hw4_pb2_ag3786.html
     - icon: fa-envelope fa-lg
       href: mailto:aak.gupta15@gmail.com
     - icon: fa-github fa-lg
