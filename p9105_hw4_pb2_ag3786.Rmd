@@ -1,9 +1,8 @@
 ---
-title: "NY NOAA"
+title: "NY NOAA plots"
 output: 
   flexdashboard::flex_dashboard:
-    orientation: rows
-    vertical_layout: fill
+    vertical_layout: scroll
 ---
 
 ```{r setup, include=FALSE}
@@ -15,10 +14,8 @@ library(plotly)
 
 ```
 
-Scatterplot {data-width=600}
------------------------------------------------------------------------
 
-### Tmax versus tmin with size of precipitation
+### Scatterplot - This plot shows maximum temperature on the x-axis and minimum temperature on the y-axis. The colors represent months these were recorded in and the size of the circles demonstrate the amount of precipitation.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
@@ -46,10 +43,7 @@ noaa %>%
 
 
 
-Column {data-width=400}
------------------------------------------------------------------------
-
-### Boxplot
+### Boxplot - This boxplot shows distribution of maximum temperatures by year.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 noaa %>%
@@ -59,12 +53,11 @@ noaa %>%
 ```
 
 
-### Line chart
+### Line chart - This linechart shows an overlay of linecharts for maximum and minimum temperatures during the month of July every year
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 noaa %>%
   filter(month == "07") %>% 
   plot_ly(x = ~year, y = ~tmax, name = 'Tmax', type = 'scatter', mode = 'lines+markers') %>%
-  add_trace(y = ~tmin, name = 'Tmin', mode = 'lines+markers') %>%
-  add_trace(y = ~prcp, name = 'Precipitation', mode = 'markers')
+  add_trace(y = ~tmin, name = 'Tmin', mode = 'lines+markers') 
 ```
